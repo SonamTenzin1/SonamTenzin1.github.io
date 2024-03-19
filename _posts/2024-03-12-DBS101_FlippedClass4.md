@@ -1,5 +1,5 @@
 ---
-Title: DBS101 Flipped Class 5
+Title: DBS101 Flipped Class 4
 categories: [DBS101, Flipped_Class]
 tags: [DBS101]
 ---
@@ -27,6 +27,8 @@ FROM sales_table;
 
 For instance, this window function calculates total sales for each sales region where the total sales are summed over a window defined by the past days for each date and it is done within sales table.
 
+### Topic: Process
+---
 We were divided into 6 groups with 4 members in each. Then we were assigned a topic and the topic that my group got was the Window Function. We were given 20 mins to discuss wihtin the group and we had to do a presentation and then the presentation helped us understand better.
 
 The flipped was very fun and interactive and the question-answer session made it even more enjoyable. The session made the theories that we were taught clearer and and we had a better understanding of the concepts.
