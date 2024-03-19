@@ -31,7 +31,6 @@ In a table we have primary key and the columns depending on the primary key whic
 
 In this table we can see that the primary key of this table is thhe exam_type_id and all the other columns in this table is dependent on the primary key. However, we can see that total_marks depends on the exam_type which is not a primary key and the exam_duration depends on total_marks which is also not a primary key. In this table exam_type -> total marks, total_marks -> exam duration and exam_type ->-> exam_duration.
 
---
 We were divided into 4 groups with 6 members in each. Then we were assigned a topic and the topic that my group got was Third Normal Form. We were given 20 mins to discuss wihtin the group and after the time was over, one of our group member presented about it.
 
 Even though it was fairly simple to understand, it wasn't as interactive as expected during the presentation.
