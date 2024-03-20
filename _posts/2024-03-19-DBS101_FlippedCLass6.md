@@ -25,3 +25,6 @@ Key features of key-value stores include:
 - simplicity in design and usage, 
 - scalability to handle large amounts of data and traffic, 
 - and high speed in data retrieval and storage operations.
+
+### Sub-topic: graph based database
+---
