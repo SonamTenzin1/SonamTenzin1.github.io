@@ -28,3 +28,17 @@ Key features of key-value stores include:
 
 ### Sub-topic: graph based database
 ---
+The graph based database focuses on the relationship between the elements. The data in this database is stored in the form of nodes. Updating data in this database is easy, since adding node or edge is straight forward and it does not require significant schema changes. This can be used in fraud detection.
+
+Key features of this  database include:
+- easy to identify the relationship between the nodes by using link.
+- gives real-time results.
+
+### Sub-topic: Vector database
+---
+Data in this database is stored in the form of vector. The data in this database are turned into special kind of code that a computer can understand. This database can be used to deal with comlex data with lots of dimensions, finding similarities, can handle huge amount of data and does real-time analysis. However, it is complex to set up and it is not recommended for all types of data.
+
+### Sub-topic: Time-series database
+---
+Time-series data is simply data with a timestamp collected with the intent of tracking changes over time. A time-series database is a database system designed to store and retrieve such data for each point in time. Timestamped data can include data generated at regular intervals as well as data generated at unpredictable intervals.It can be used for monitoring the software systems and bare-metal hardware systems
+
