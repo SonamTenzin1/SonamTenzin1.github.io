@@ -5,7 +5,7 @@ tags: [DBS101]
 ---
 
 Building a relational database from the scratch requires careful planning. The first step is to define the purpose and target users. What information will the database store and who can access to it? This clarifies what data to collect and how to organize it.
-<img src="../assets/m2i8b1K9d3d3b1N4.png" alt="Alt Text" width="25">
+<img src="..\assets\m2i8b1K9d3d3b1N4.png" alt="Alt Text" width="25">
 
 Next, analyzing the data requirements. What specific details need to captured and how they will be used? Existing data sources loke spreadsheets can be a starting point.
 
