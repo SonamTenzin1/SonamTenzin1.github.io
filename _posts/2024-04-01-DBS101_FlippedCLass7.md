@@ -10,7 +10,7 @@ Next, analyzing the data requirements. What specific details need to captured an
 
 Once the data requirements are clear, identify entities and attributes. Entities are the main categories of data and the attributes are their specific details. This list forms the foundation of the database structure.
 
-The actual structure involves modeling tables and fields. Each entity becomes a separate table with its attributes as individual fields. In this section, data types like text , number or date are assigned. Visual tools llike ERD can be used.
+The actual structure involves modeling tables and fields. Each entity becomes a separate table with its attributes as individual fields. In this section, data types like text , number or date are assigned. Visual tools llike ERD can be used.(the following  ERD is an example)
 
 ![ERD](../assets/Untitled-2024-03-11-2200.png)
 
