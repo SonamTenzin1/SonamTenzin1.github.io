@@ -36,7 +36,7 @@ Here, the transaction is successful and the balance of A and B is updated.
 ![transaction3](<../assets/dbs_fc_10/Screenshot-(303).png>)
 
 ![transaction4](../assets/dbs_fc_10/Screenshot-(262).png)
-Here, the transaction is not successful and the balance of A and B is not updated.
+Here, the transaction is successful and the balance of A and B is updated.
 
 **Transaction Errors**
 ![errortransaction1](../assets/dbs_fc_10/Screenshot-(263).png)
