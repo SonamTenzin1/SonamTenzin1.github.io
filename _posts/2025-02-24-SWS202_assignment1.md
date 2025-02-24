@@ -38,15 +38,14 @@ To identify open ports and services running on the target machine, I used Nmap:
 ```bash
 nmap -sV -vv 10.10.11.54
 ```
-![alt text](image-1.png)
+![alt text](image.png)
 
 
 ### Web Application Exploitation
 
 Even though I knew that a web application was running on the target, I couldn't access the web application because, even though I added the IP address in the localhost, it wouldn't show up.
 
-![alt text](image-2.png)
-
+![alt text](image-1.png)
 
 ## Titanic Walkthrough
 
@@ -59,7 +58,7 @@ I conducted a port scan to identify open services on the target machine:
 ```bash
 nmap -sV -vv 10.10.11.55
 ```
-![alt text](image-4.png)
+![alt text](image-2.png)
 
 Open ports:
 
@@ -79,10 +78,12 @@ This revealed a virtual host: `dev.titanic.htb`.
 ### Exploitation
 
 I still faced the same issue as the previous machine, where I couldn't access the web application even after adding the IP address in the localhost.
-![alt text](image-6.png)
+
+![alt text](image-3.png)
 
 Despite that I followed a walkthrough and tried the same attack that the person in the walkthrough, however it was not succesful for me.
-![alt text](image-5.png)
+
+![alt text](image-4.png)
 
 ## References
 
